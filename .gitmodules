@@ -1,0 +1,6 @@
+[submodule "roles/datanode"]
+	path = roles/datanode
+	url = git@github.com:1mbili/ansible-role-datanode.git
+[submodule "roles/namenode"]
+	path = roles/namenode
+	url = git@github.com:1mbili/ansible-role-namenode.git
