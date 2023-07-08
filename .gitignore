@@ -1,0 +1,7 @@
+.vagrant/*
+.vscode/*
+.idea/*
+*.pyc
+*.vagrant*
+.pyc/*
+```
