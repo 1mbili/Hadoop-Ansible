@@ -5,9 +5,6 @@
   roles:
     - namenode
 
-# - name: Print the gateway for each host when defined
-#   debug: msg="Namenode is {{ namenode }}"
-
 - name: "Install and configure datanode"
   hosts: datanodes
   become: true
